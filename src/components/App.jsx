@@ -1,5 +1,5 @@
 import './App.css'
-import Description from './Description/descriptions';
+import Description from './Description/Description';
 import Options from './Options/Options';
 import Feedback from './Feedback/Feedback';
 import { useState, useEffect } from 'react';
